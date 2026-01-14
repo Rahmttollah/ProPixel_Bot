@@ -1,6 +1,6 @@
 {
   "botAccount": {
-    "namePrefix": "Player_",
+    "namePrefix": "Bot_ProPixel_",
     "randomName": true,
     "initialCount": 0,
     "type": "offline"
